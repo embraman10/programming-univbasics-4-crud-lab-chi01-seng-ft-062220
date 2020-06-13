@@ -37,12 +37,12 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  ruby= ["wow", "boom", "arrays!"]
-  ruby[-1]
+  snap= ["wow", "boom", "arrays!"]
+  snap[-1]
 end
 
 def update_element_from_index(array, index_number, element)
-  ruby= ["wow", "boom", "arrays!", "bam!", "killer"]
-  ruby[4]= ["totally"]
+  snap= ["wow", "boom", "arrays!", "bam!", "killer"]
+  snap[4]= ["totally"]
   => "totally"
 end
