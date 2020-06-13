@@ -17,8 +17,8 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  cats= ["artemis", "lady", "violet", "lilly"]
-  lilly_cat= cats.pop
+  cats= ["artemis", "lady", "violet", "lilly","arrays"]
+  arrays_cat= cats.pop
 end
 
 def remove_element_from_start_of_array(array)
