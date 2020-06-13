@@ -44,5 +44,4 @@ end
 def update_element_from_index(array, index_number, element)
   snap= ["wow", "boom", "arrays!", "bam!", "killer"]
   snap[4]= "totally"
-  => "totally"
 end
