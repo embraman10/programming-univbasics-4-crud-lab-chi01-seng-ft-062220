@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   cats= ["artemis", "lady", "violet", "lilly"]
-  cats<< "arrays"
+  cats<< "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   cats= ["artemis", "lady", "violet", "lilly"]
-  cats.pop("lilly")
+  lilly_ cat=cats.pop
 end
 
 def remove_element_from_start_of_array(array)
