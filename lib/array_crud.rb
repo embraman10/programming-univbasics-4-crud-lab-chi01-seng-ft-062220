@@ -12,7 +12,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  dogs= dogs= ["shiba", "corgi", "lab", "pitbull"]
+  dogs= ["shiba", "corgi", "lab", "pitbull"]
   dogs.unshift ("wow")
 end
 
